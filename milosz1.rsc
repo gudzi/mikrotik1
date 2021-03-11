@@ -53,3 +53,5 @@ set ether3 disabled=yes display-time=5s
 set ether4 disabled=yes display-time=5s
 /tool user-manager database
 set db-path=user-manager
+/system identity
+set name=mt2
